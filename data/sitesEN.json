@@ -6747,6 +6747,26 @@
     "destination_content_path": "/view/"
   },
   {
+    "id": "en-pifpsa",
+    "origins_label": "PIF/PSA Wiki",
+    "origins": [
+      {
+        "origin": "PIF/PSA Wiki",
+	"origin_base_url": "pif.fandom.com",
+	"origin_content_path": "/wiki/",
+	"origin_main_page": "PSA/PIF_Wiki"
+      }
+    ],
+    "destination": "PSA Database",
+    "destination_base_url": "psadatabase.miraheze.org",
+    "destination_platform": "mediawiki",
+    "destination_icon": "psa_database.png",
+    "destination_main_page": "Main_Page",
+    "destination_search_path": "/w/index.php",
+    "destination_content_path": "/wiki/",
+    "destination_host": "Miraheze"
+  },
+  {
     "id": "en-pubg",
     "origins_label": "PUBG Fandom Wiki",
     "origins": [
